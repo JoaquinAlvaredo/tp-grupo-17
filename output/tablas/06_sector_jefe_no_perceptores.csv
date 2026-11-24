@@ -1,0 +1,7 @@
+sector,n,pct_hogares,pct_ingreso,mediana,gini,theil
+Comercio,3397,11.829,11.416,487249.485,0.387,0.28
+"Serv. personales, doméstico y gastronomía",2089,6.579,4.264,341683.702,0.367,0.262
+"Sector público, enseñanza y salud",7927,24.799,27.599,613215.83,0.339,0.196
+"Industria, construcción y transporte",5392,22.013,21.021,498784.452,0.377,0.255
+Otras ramas,5076,20.325,26.722,642857.14,0.41,0.288
+Jefe/a no ocupado/a,5553,14.455,8.978,330238.095,0.369,0.251

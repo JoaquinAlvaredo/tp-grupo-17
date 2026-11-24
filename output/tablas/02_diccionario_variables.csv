@@ -1,0 +1,15 @@
+variable,base,tipo,descripcion
+V5_01,hogar,categórica (1/2/9),"El hogar recibe AUH (1 = sí, 2 = no, 9 = Ns/Nr)"
+V5_01_M,individual,numérica ($),Monto de AUH que cobra la persona (0 = no cobra)
+IPCF,hogar,numérica ($),Ingreso per cápita familiar; 0 si el hogar no declara ingresos
+ITF,hogar,numérica ($),Ingreso total familiar
+IX_TOT,hogar,numérica (conteo),Cantidad de integrantes del hogar
+REGION,hogar,categórica (6),"Región estadística (GBA, NOA, NEA, Cuyo, Pampeana, Patagonia)"
+PONDIH,hogar,numérica,Ponderador de ingresos del hogar (0 = sin ingreso válido)
+PONDERA,ambas,numérica,Ponderador general
+CH04 / CH06,individual,categórica / numérica,Sexo y edad
+ESTADO,individual,categórica (0-4),Condición de actividad (1 = ocupado)
+CAT_OCUP,individual,categórica (1-4),Categoría ocupacional (3 = asalariado)
+PP04A,individual,categórica (1-3),"Carácter jurídico del empleo (1 = estatal, 2 = privado)"
+PP04B_COD,individual,categórica (CAES),Código de actividad de la ocupación principal (CAES-Mercosur)
+PP07H,individual,categórica (1/2),"El asalariado tiene descuento jubilatorio (2 = no, es decir informal)"

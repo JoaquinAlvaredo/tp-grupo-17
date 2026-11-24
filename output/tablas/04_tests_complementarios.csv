@@ -1,0 +1,3 @@
+test,estadistico,p,nota
+Brown-Forsythe (varianza de ln IPCF),481.16074869703175,4.58812076354439e-106,F(1; 42866)
+Mann-Whitney (IPCF),94610563,0,P(perceptor > no perceptor) = 0.239

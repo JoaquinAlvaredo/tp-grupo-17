@@ -1,0 +1,9 @@
+chequeo,wald,gl,p_vivienda,chi2_clasico,razon
+Base: 15 ramas x hogar con AUH,2849.256,14,0,10029.84,0.284
+15 ramas x ocupada que cobra AUH (individual),1574.83,14,0,7739.33,0.203
+"Solo mujeres, 15 ramas x hogar con AUH",1863.811,14,0,5811.71,0.321
+"Solo varones, 15 ramas x hogar con AUH",1551.307,14,4e-323,4513.95,0.344
+Estatal vs privado x hogar con AUH,908.389,1,1.4699999999999994e-199,2931.59,0.31
+"Tercil de ingreso Bajo, 15 ramas x hogar con AUH",384.381,14,2.4599999999999997e-73,1110.3,0.346
+"Tercil de ingreso Medio, 15 ramas x hogar con AUH",783.952,14,2.989999999999999e-158,2017.25,0.389
+"Tercil de ingreso Alto, 15 ramas x hogar con AUH",233.741,14,6.539999999999999e-42,1136.8,0.206

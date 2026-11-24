@@ -1,0 +1,8 @@
+indicador,valor
+% de ocupados en hogares con AUH (total),28.807
+Informalidad del total (% de asalariados sin descuento),38.028
+"Spearman (VCR, informalidad), 15 ramas",0.879
+"Pearson (ln VCR, informalidad), 15 ramas",0.809
+Ramas con VCR > 1,5
+Ramas con VCR < 1,10
+Ramas con IC95% que incluye 1,3

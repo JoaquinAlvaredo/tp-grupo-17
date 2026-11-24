@@ -1,0 +1,13 @@
+concepto,valor
+Límite inferior ($ por persona por mes),57164
+Límite superior ($ por persona por mes),2324857
+Atípicos altos (hogares-trimestre),320
+  de los cuales con AUH,10
+Atípicos bajos (hogares-trimestre),360
+  de los cuales con AUH,162
+% ponderado altos,1.6
+% ponderado bajos,0.9
+Atípicos con Tukey sobre el IPCF sin transformar,2575
+Asimetría del IPCF,5.92
+Curtosis del IPCF,91.6
+Asimetría de ln(IPCF),-0.07

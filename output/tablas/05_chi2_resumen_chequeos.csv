@@ -1,0 +1,11 @@
+chequeo,n,categorias,chi2,gl,p,V,esperada_min
+Base: 15 ramas x hogar con AUH,89697,15,10029.84,14,0,0.33,277.23
+"Divisiones CAES (2 dígitos), agrupadas",89697,80,11979.38,79,0,0.37,6.14
+15 ramas x ocupada que cobra AUH (individual),89697,15,7739.33,14,0,0.29,95.44
+Divisiones x ocupada que cobra AUH (individual),89697,77,9590.78,76,0,0.33,5.33
+"Solo mujeres, 15 ramas x hogar con AUH",42895,15,5811.71,14,0,0.37,45.29
+"Solo varones, 15 ramas x hogar con AUH",46802,15,4513.95,14,0,0.31,39.01
+Estatal vs privado x hogar con AUH,88739,2,2931.59,1,0,0.18,4319.47
+"Tercil de ingreso Bajo, 15 ramas x hogar con AUH",21292,15,1110.3,14,3.269999999999999e-228,0.23,65.98
+"Tercil de ingreso Medio, 15 ramas x hogar con AUH",24833,15,2017.25,14,0,0.29,65.47
+"Tercil de ingreso Alto, 15 ramas x hogar con AUH",20022,15,1136.8,14,6.629999999999996e-234,0.24,23.33
